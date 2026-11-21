@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ClubMembers" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ClubMembers">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="ID" type="xs:int" minOccurs="0" />
+                <xs:element name="StudentId" type="xs:long" minOccurs="0" />
+                <xs:element name="FirstName" type="xs:string" minOccurs="0" />
+                <xs:element name="MiddleName" type="xs:string" minOccurs="0" />
+                <xs:element name="LastName" type="xs:string" minOccurs="0" />
+                <xs:element name="Age" type="xs:int" minOccurs="0" />
+                <xs:element name="Gender" type="xs:string" minOccurs="0" />
+                <xs:element name="Program" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ClubMembers>
+    <ID>1</ID>
+    <StudentId>2000415702</StudentId>
+    <FirstName>ahyian</FirstName>
+    <MiddleName>dd</MiddleName>
+    <LastName>quijano</LastName>
+    <Age>20</Age>
+    <Gender>Male</Gender>
+    <Program>BS in Business Administration</Program>
+  </ClubMembers>
+  <ClubMembers>
+    <ID>2</ID>
+    <StudentId>2000415888</StudentId>
+    <FirstName>AhyiAn</FirstName>
+    <MiddleName>dc</MiddleName>
+    <LastName>Quijano</LastName>
+    <Age>20</Age>
+    <Gender>Female</Gender>
+    <Program>BS in Information Technology</Program>
+  </ClubMembers>
+</NewDataSet>

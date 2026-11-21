@@ -1,0 +1,7 @@
+C:\Users\quijano.415702\Downloads\Quijano_Ahyian_RegistrationWithDB 2\Quijano_Ahyian_RegistrationWithDB\RegistrationWithDB\bin\Debug\RegistrationWithDB.exe.config
+C:\Users\quijano.415702\Downloads\Quijano_Ahyian_RegistrationWithDB 2\Quijano_Ahyian_RegistrationWithDB\RegistrationWithDB\bin\Debug\RegistrationWithDB.exe
+C:\Users\quijano.415702\Downloads\Quijano_Ahyian_RegistrationWithDB 2\Quijano_Ahyian_RegistrationWithDB\RegistrationWithDB\bin\Debug\RegistrationWithDB.pdb
+C:\Users\quijano.415702\Downloads\Quijano_Ahyian_RegistrationWithDB 2\Quijano_Ahyian_RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.csproj.AssemblyReference.cache
+C:\Users\quijano.415702\Downloads\Quijano_Ahyian_RegistrationWithDB 2\Quijano_Ahyian_RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.csproj.CoreCompileInputs.cache
+C:\Users\quijano.415702\Downloads\Quijano_Ahyian_RegistrationWithDB 2\Quijano_Ahyian_RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.exe
+C:\Users\quijano.415702\Downloads\Quijano_Ahyian_RegistrationWithDB 2\Quijano_Ahyian_RegistrationWithDB\RegistrationWithDB\obj\Debug\RegistrationWithDB.pdb
